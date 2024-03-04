@@ -21,10 +21,8 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 
 ## Screenshots
-<img width="712" alt="Screenshot 2023-07-20 063922" src="![image]![img](![img](https://github.com/sparshrex/Aero-Weather_App/assets/81426512/2ee3d912-2ce8-40ff-9772-b6596cd68b95)
-
-
-">
+< ![img](https://github.com/sparshrex/Aero-Weather_App/assets/81426512/b03af870-f3ce-4106-9dec-e50a62060349)
+>
 
 ## Learn More
 
