@@ -30,7 +30,8 @@ Your app is ready to be deployed!
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
 ## Screenshots
-<img width="712" alt="Screenshot 2023-07-20 063922" src="![image](https://github.com/sparshrex/Aero-Weather_App/assets/81426512/45b58825-d743-4a66-815c-7ab969927022)
+<img width="712" alt="Screenshot 2023-07-20 063922" src="![image]![img](https://github.com/sparshrex/Aero-Weather_App/assets/81426512/b03af870-f3ce-4106-9dec-e50a62060349)
+)
 ">
 
 ## Learn More
